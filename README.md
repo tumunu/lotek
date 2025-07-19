@@ -1,10 +1,10 @@
 # LoTek - Fractal Cybersecurity Neural Network
 
-A cybersecurity AI system implementing fractal neural networks with hierarchical self-similar patterns for network monitoring, anomaly detection, and vulnerability assessment. Inspired by the underground hacker collective from Johnny Mnemonic.
+A cybersecurity AI system implementing fractal neural networks with hierarchical self-similar patterns for network monitoring, anomaly detection, and vulnerability assessment.
 
 ## Overview
 
-LoTek combines cutting-edge fractal neural architectures with practical cybersecurity applications, providing next-generation network defense through self-similar pattern recognition.
+LoTek combines fractal neural architectures with practical cybersecurity applications, providing next-generation network defense through self-similar pattern recognition.
 
 ## Key Features
 
