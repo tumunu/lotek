@@ -1,0 +1,12 @@
+torch
+datasets
+transformers
+matplotlib
+pytest
+beautifulsoup4
+requests
+youtube_dl
+wandb
+detoxify
+sentence-transformers
+nltk
