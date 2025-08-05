@@ -1,0 +1,4 @@
+# CLI-specific requirements (in addition to main requirements.txt)
+# These are likely already in the main requirements but listed for completeness
+argparse  # Usually built-in with Python 3.2+
+pathlib   # Built-in with Python 3.4+
